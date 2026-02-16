@@ -6,13 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvmofotibo/Gotapp.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvmofotibo/Gotapp/issues"
+  },
+  "homepage": "https://github.com/tvmofotibo/Gotapp#readme",
   "dependencies": {
     "@capacitor/android": "^8.1.0",
     "@capacitor/cli": "^8.1.0",
-    "@capacitor/core": "^8.1.0",
-    "@capacitor/http": "^0.0.2"
+    "@capacitor/core": "^8.1.0"
   }
 }
